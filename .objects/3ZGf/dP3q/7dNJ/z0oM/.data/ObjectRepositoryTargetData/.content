@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="H4lZw2hbtke4HC2YCiAuIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="266, 236, 46, 20" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Home' href='https://acme-test.uipath.com/home' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Home' href='https://acme-test.uipath.com/home' tag='A' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:href='fuzzy' fuzzylevel:href='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Home' /&gt;" Guid="6cf017c4-1b4d-436c-ac6e-4938d2e91602" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADIAAAAYCAYAAAC4CK7hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABCSURBVFhH7c+xDQBACMPAlMzB/jvy/U9gkCO5SXfp7rlQ/mNrQmgJoSWElhBaQmilquZCmSMTQpsQ2oTQJoQ2IbQ9PI4LU7O68qIAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ca7d95ff90c985ec8c69b996b47e526e.png" xmlns="">0S3zSLKVLbUqiu775EECPUw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

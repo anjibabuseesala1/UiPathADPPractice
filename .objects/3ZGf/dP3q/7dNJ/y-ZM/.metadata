@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ACME System 1",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "y-ZMnOgEe0WtVVqFBsIiQw",
+  "Reference": "B4NiuF735UybGRvYKAmFvQ/y-ZMnOgEe0WtVVqFBsIiQw",
+  "ParentRef": "B4NiuF735UybGRvYKAmFvQ/7dNJE1ecXkarXxKLw64D1A",
+  "Created": "2025-05-23T20:41:38.5600254Z",
+  "Updated": "2025-05-23T20:41:38.5600254Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

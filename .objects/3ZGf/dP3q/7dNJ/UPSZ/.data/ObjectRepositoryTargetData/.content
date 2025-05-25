@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kZphOw-sJEuYXLbURnzLeA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="334, 576, 250, 57" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='dashmenu' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' aaname='                  User options' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='User options' /&gt;" Guid="169cae44-9810-4c15-afc7-7c257b48ce82" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAP4AAAA9CAYAAACN6tRLAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADWSURBVHhe7dOxDQAwDMOw/P9v5nbvCRUJePGu2d1jZq3Ne5jZ/xO+WXDCNwtO+GbBCd8sOOGbBSd8s+CEbxac8M2CmwPkCB+ChA9Bwocg4UOQ8CFI+BAkfAgSPgQJH4KED0HChyDhQ5DwIUj4ECR8CBI+BAkfgoQPQcKHIOFDkPAhSPgQJHwIEj4ECR+ChA9Bwocg4UOQ8CFI+BAkfAgSPgQJH4KED0HChyDhQ5DwIUj4ECR8CBI+BAkfgoQPQcKHIOFDkPAhSPgQJHwIEj4ECR+ChA9BF+FsClHLk66FAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="87b20b11d50074d4fa6952b6c38efeef.png" xmlns="">0sNffpA1Z9UWWL2OouRhZfw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
